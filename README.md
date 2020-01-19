@@ -1,2 +1,2 @@
 # Python1
-some code about python
+some simple codes in python
